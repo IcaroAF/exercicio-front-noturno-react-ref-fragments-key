@@ -51,9 +51,9 @@ export default function App() {
 
 Modifique o código acima para que:
 
-- [ ] Ao mudar `step`, isso se reflita imediatamente no quanto o contador aumenta a cada passo
-- [ ] Ao mudar `step`, a contagem de tempo não reinicie
-- [ ] Ao mudar `delaySegundos`, mudar a duração de um passo
+- [x] Ao mudar `step`, isso se reflita imediatamente no quanto o contador aumenta a cada passo
+- [x] Ao mudar `step`, a contagem de tempo não reinicie
+- [x] Ao mudar `delaySegundos`, mudar a duração de um passo
 
 Reflexões para após resolver o exercício:
 
@@ -67,10 +67,10 @@ Reflexões para após resolver o exercício:
 
 Preencha a checklist para finalizar o exercício:
 
-- [ ] Resolver o exercício
-- [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
-- [ ] Realizar o pull request
+- [x] Resolver o exercício
+- [x] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [x] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [x] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
+- [x] Realizar o pull request
 
 ###### tags: `React` `useRef` `useEffect`

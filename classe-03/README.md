@@ -33,9 +33,9 @@ export default function App() {
 
 Modifique o código acima usando `useRef` para que, ao submeter o formulário com algum campo vazio, esse campo ganhe foco.
 
-- [ ] Se ambos os campos estiverem vazios, o campo de usuário deve ganhar foco
-- [ ] Se somente um campo estiver vazio, ele ganha foco
-- [ ] Se ambos estiverem preenchidos, mostrar uma mensagem de sucesso usando `alert`
+- [x] Se ambos os campos estiverem vazios, o campo de usuário deve ganhar foco
+- [x] Se somente um campo estiver vazio, ele ganha foco
+- [x] Se ambos estiverem preenchidos, mostrar uma mensagem de sucesso usando `alert`
 
 Reflexões para após resolver o exercício:
 
@@ -52,10 +52,10 @@ Não se usa `useRef` com elementos HTML para adicionar ouvintes de evento, modif
 
 Preencha a checklist para finalizar o exercício:
 
-- [ ] Resolver o exercício
-- [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
-- [ ] Realizar o pull request
+- [x] Resolver o exercício
+- [x] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [x] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [x] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
+- [x] Realizar o pull request
 
 ###### tags: `React` `useRef`
